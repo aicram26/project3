@@ -1,0 +1,31 @@
+html{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+
+canvas {
+    
+ position:absolute;
+ top:0;
+ left:0;
+}
+
+#play-button{
+    visibility: hidden;
+}
+#playl-button{
+    visibility: visible;
+   
+}
+
+#scene-container{
+    width: 90vw;
+    height: 90vh;
+    padding: 0;
+    margin: 0 5%;
+    position: absolute;
+
+}
